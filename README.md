@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pipatwai-tw
-- 👀 I’m interested in Experience Design and Product Strategies
-- 🌱 I’m currently learning Python for Data Analysis
+- 👀 I’m interested in `Experience Design` and `Product Strategies`
+- 🌱 I’m currently learning `Python` for Data Analysis
 - 📫 Reach me via pipat.wai@thoughtworks.com
 
 <!---
